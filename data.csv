@@ -1,0 +1,93 @@
+Date,Product,Category,Region,Salesperson,Units_Sold,Unit_Price,Discount,Revenue,Profit
+2026-01-03,Laptop,Electronics,North,Aarav,5,75000,5,356250,71250
+2026-01-05,Mouse,Accessories,West,Neha,18,1200,2,21168,6348
+2026-01-07,Office Chair,Furniture,South,Rohan,7,8500,8,54670,13668
+2026-01-10,Keyboard,Accessories,East,Priya,15,2500,5,35625,10688
+2026-01-12,Monitor,Electronics,North,Vikram,8,18000,10,129600,25920
+2026-01-15,Desk,Furniture,West,Aarav,4,12000,5,45600,11400
+2026-01-18,Headphones,Electronics,South,Neha,12,3500,3,40740,12222
+2026-01-21,Printer,Electronics,East,Rohan,6,15000,7,83700,16740
+2026-01-24,Webcam,Electronics,North,Priya,10,4500,4,43200,10800
+2026-01-27,Tablet,Electronics,West,Vikram,6,28000,6,157920,31584
+2026-02-02,Laptop,Electronics,South,Aarav,4,75000,4,288000,57600
+2026-02-04,Mouse,Accessories,East,Neha,25,1200,3,29100,8730
+2026-02-06,Office Chair,Furniture,North,Rohan,9,8500,6,71685,17921
+2026-02-09,Keyboard,Accessories,West,Priya,20,2500,4,48000,14400
+2026-02-11,Monitor,Electronics,South,Vikram,11,18000,8,182160,36432
+2026-02-14,Desk,Furniture,East,Aarav,6,12000,7,66960,16740
+2026-02-17,Headphones,Electronics,North,Neha,16,3500,5,53200,15960
+2026-02-20,Printer,Electronics,West,Rohan,5,15000,5,71250,14250
+2026-02-23,Webcam,Electronics,South,Priya,14,4500,3,61020,15255
+2026-02-26,Tablet,Electronics,East,Vikram,8,28000,7,208320,41664
+2026-03-01,Laptop,Electronics,North,Aarav,7,75000,6,493500,98700
+2026-03-03,Mouse,Accessories,West,Neha,30,1200,4,34560,10368
+2026-03-06,Office Chair,Furniture,South,Rohan,5,8500,5,40375,10094
+2026-03-09,Keyboard,Accessories,East,Priya,22,2500,6,51700,15510
+2026-03-12,Monitor,Electronics,North,Vikram,9,18000,5,153900,30780
+2026-03-15,Desk,Furniture,West,Aarav,8,12000,8,88320,22080
+2026-03-18,Headphones,Electronics,South,Neha,20,3500,4,67200,20160
+2026-03-21,Printer,Electronics,East,Rohan,7,15000,6,98700,19740
+2026-03-24,Webcam,Electronics,North,Priya,18,4500,5,76950,19238
+2026-03-27,Tablet,Electronics,West,Vikram,10,28000,5,266000,53200
+2026-04-02,Laptop,Electronics,South,Aarav,6,75000,7,418500,83700
+2026-04-04,Mouse,Accessories,East,Neha,35,1200,5,39900,11970
+2026-04-07,Office Chair,Furniture,North,Rohan,8,8500,7,63240,15810
+2026-04-10,Keyboard,Accessories,West,Priya,25,2500,5,59375,17813
+2026-04-13,Monitor,Electronics,South,Vikram,12,18000,9,196560,39312
+2026-04-16,Desk,Furniture,East,Aarav,5,12000,6,56400,14100
+2026-04-19,Headphones,Electronics,North,Neha,22,3500,6,71940,21582
+2026-04-22,Printer,Electronics,West,Rohan,8,15000,8,110400,22080
+2026-04-25,Webcam,Electronics,South,Priya,16,4500,4,69120,17280
+2026-04-28,Tablet,Electronics,East,Vikram,12,28000,8,309120,61824
+2026-05-01,Laptop,Electronics,North,Aarav,8,75000,5,570000,114000
+2026-05-04,Mouse,Accessories,West,Neha,28,1200,3,32592,9778
+2026-05-07,Office Chair,Furniture,South,Rohan,10,8500,5,80750,20188
+2026-05-10,Keyboard,Accessories,East,Priya,18,2500,4,43200,12960
+2026-05-13,Monitor,Electronics,North,Vikram,10,18000,7,167400,33480
+2026-05-16,Desk,Furniture,West,Aarav,7,12000,5,79800,19950
+2026-05-19,Headphones,Electronics,South,Neha,18,3500,3,61020,18306
+2026-05-22,Printer,Electronics,East,Rohan,9,15000,7,125550,25110
+2026-05-25,Webcam,Electronics,North,Priya,20,4500,6,84600,21150
+2026-05-28,Tablet,Electronics,West,Vikram,9,28000,5,239400,47880
+2026-06-02,Laptop,Electronics,South,Aarav,9,75000,8,621000,124200
+2026-06-05,Mouse,Accessories,East,Neha,32,1200,4,36864,11059
+2026-06-08,Office Chair,Furniture,North,Rohan,11,8500,6,87835,21959
+2026-06-11,Keyboard,Accessories,West,Priya,27,2500,5,64125,19238
+2026-06-14,Monitor,Electronics,South,Vikram,13,18000,6,219960,43992
+2026-06-17,Desk,Furniture,East,Aarav,9,12000,7,100440,25110
+2026-06-20,Headphones,Electronics,North,Neha,24,3500,5,79800,23940
+2026-06-23,Printer,Electronics,West,Rohan,10,15000,6,141000,28200
+2026-06-26,Webcam,Electronics,South,Priya,19,4500,4,82080,20520
+2026-06-29,Tablet,Electronics,East,Vikram,11,28000,6,289520,57904
+2026-07-03,Laptop,Electronics,North,Aarav,10,75000,6,705000,141000
+2026-07-06,Mouse,Accessories,West,Neha,40,1200,5,45600,13680
+2026-07-09,Office Chair,Furniture,South,Rohan,12,8500,7,94740,23685
+2026-07-12,Keyboard,Accessories,East,Priya,30,2500,6,70500,21150
+2026-07-15,Monitor,Electronics,North,Vikram,14,18000,8,231840,46368
+2026-07-18,Desk,Furniture,West,Aarav,10,12000,5,114000,28500
+2026-07-21,Headphones,Electronics,South,Neha,26,3500,4,87360,26208
+2026-07-24,Printer,Electronics,East,Rohan,11,15000,5,156750,31350
+2026-07-27,Webcam,Electronics,North,Priya,22,4500,5,94050,23513
+2026-07-30,Tablet,Electronics,West,Vikram,13,28000,7,338520,67704
+2026-08-02,Laptop,Electronics,South,Aarav,7,75000,5,498750,99750
+2026-08-05,Mouse,Accessories,East,Neha,38,1200,3,44232,13270
+2026-08-08,Office Chair,Furniture,North,Rohan,13,8500,6,104039,26010
+2026-08-11,Keyboard,Accessories,West,Priya,32,2500,5,76000,22800
+2026-08-14,Monitor,Electronics,South,Vikram,15,18000,7,250740,50148
+2026-08-17,Desk,Furniture,East,Aarav,11,12000,6,124080,31020
+2026-08-20,Headphones,Electronics,North,Neha,28,3500,5,93100,27930
+2026-08-23,Printer,Electronics,West,Rohan,12,15000,8,165600,33120
+2026-08-26,Webcam,Electronics,South,Priya,24,4500,4,103680,25920
+2026-08-29,Tablet,Electronics,East,Vikram,14,28000,6,368480,73696
+2026-09-03,Laptop,Electronics,North,Aarav,11,75000,7,767250,153450
+2026-09-06,Mouse,Accessories,West,Neha,42,1200,4,48384,14515
+2026-09-09,Office Chair,Furniture,South,Rohan,14,8500,5,112100,28025
+2026-09-12,Keyboard,Accessories,East,Priya,35,2500,6,82250,24675
+2026-09-15,Monitor,Electronics,North,Vikram,16,18000,5,273600,54720
+2026-09-18,Desk,Furniture,West,Aarav,12,12000,7,133920,33480
+2026-09-21,Headphones,Electronics,South,Neha,30,3500,4,100800,30240
+2026-09-24,Printer,Electronics,East,Rohan,13,15000,6,183300,36660
+2026-09-27,Webcam,Electronics,North,Priya,26,4500,5,111150,27788
+2026-09-30,Tablet,Electronics,West,Vikram,15,28000,8,386400,77280
+2026-10-02,Laptop,Electronics,South,Aarav,12,75000,5,855000,171000
+2026-10-03,Mouse,Accessories,East,Neha,45,1200,3,52380,15714
