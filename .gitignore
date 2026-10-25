@@ -1,1 +1,7 @@
 /.venv
+# Local Python environments
+.venv/
+darsh-env/
+__pycache__/
+.vscode/
+.ipynb_checkpoints/
